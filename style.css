@@ -1,0 +1,48 @@
+<style>
+.box{
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  }
+.greybox{
+  background-color: rgba(45, 45, 45, 0.1);
+  padding: 30px;
+
+}
+.whitebox{
+  background-color: white;
+  padding: 130px;
+  
+}
+h1{
+text-align: center;
+font-size: 40px;
+}
+
+#img-div{
+  display: block;
+  filter: grayscale(100%);
+  width: 100%;
+  
+
+}
+#image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: auto;
+padding-top: 10px;
+max-width: 100%;  
+}
+
+p,h3{
+ text-align: center;
+}
+#tribute-info{
+  font-size: 25px;
+  margin: 10px 250px;
+}
+
+
+</style>
+
